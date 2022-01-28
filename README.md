@@ -5,4 +5,6 @@ TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES  and  currently un
 
 In this paper, we investigated the behaviour of GAN in the case of shrinking the conditional space and increasing the computational capacity of the generator network. 
 
+As a baseline, we used Pix2pix GAN model, which is explained at Scenario 1. 
+
 ![pix2pixDiagram](https://user-images.githubusercontent.com/22565098/151542356-6c00c0a9-26e6-4ca8-a08f-f85b9db07c54.png)
