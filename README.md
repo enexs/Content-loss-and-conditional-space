@@ -21,3 +21,6 @@ At scenario 3, we simply doubled the size of the generator used in Scenario-1 an
 At the final scenario 4, we used two sequential generators with two discriminators and examined the effect of this design choice on the contet loss.
 ![scenario4Diagram](https://user-images.githubusercontent.com/22565098/151543930-dcd50657-f117-4729-89b6-f437bcdbb942.png)
 
+
+# Acknowledgments
+Code borrows heavily from DCGAN and Pix2Pix GAN models.
