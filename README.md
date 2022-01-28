@@ -24,3 +24,5 @@ At the final scenario 4, we used two sequential generators with two discriminato
 
 # Acknowledgments
 Code borrows heavily from DCGAN and Pix2Pix GAN models.
+original implementations can be found at 
+https://github.com/phillipi/pix2pix and https://machinelearningmastery.com
